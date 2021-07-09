@@ -32,10 +32,8 @@ infile
 ===============
 step3_fn(file_name, find_str), find_str == l
 outfile
-  infile
   hello world!!!
 ===============
 $> grep l infile
-infile
 hello world!!!
 ```
